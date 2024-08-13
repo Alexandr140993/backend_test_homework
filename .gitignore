@@ -2,3 +2,5 @@
 *.doc 
 # Игнорировать файл README.md.
 README.md
+# игнорировать файл text2.txt
+text2.txt
